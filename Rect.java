@@ -1,7 +1,3 @@
-
-
-  
-=======
 import java.util.*;
 
 public class Rect{
@@ -27,5 +23,4 @@ public class Rect{
         }
         scanner.close();
     }
->>>>>>> b365410721df2c1666fe4d6684ff93428d9e94a2
 }
